@@ -2,7 +2,7 @@
 
 Official implementation of our paper:
 
-**FHMNet: Frequency-aware Hierarchical Modulation Network for Referring Camouflaged Object Detection**
+**FHKMNet: Frequency-aware Hierarchical Knowledge Modulation Network for Referring Camouflaged Object Detection**
 
 The source code, pretrained models, and detailed instructions will be released after the paper is accepted.
 
