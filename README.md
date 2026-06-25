@@ -1,6 +1,6 @@
-# `FHKMNet`
+# `FHMNet`
 
-PyTorch implementation of `FHKMNet` for referring camouflaged object detection.
+PyTorch implementation of `FHMNet` for referring camouflaged object detection.
 
 ## Framework
 The framework figure and qualitative results will be added to the repository together with the final project assets.
@@ -21,7 +21,7 @@ pip install -r requirements.txt
 Run:
 
 ```bash
-python train_fhkm.py
+python train_fhm.py
 ```
 
 ## Testing
